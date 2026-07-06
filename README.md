@@ -13,7 +13,7 @@ Data Science from scratch.
 
 ## Tools Used
 Python | Jupyter Notebook | Pandas | 
-NumPy | Matplotlib | Scikit-learn
+NumPy | Matplotlib | Seaborn | Scikit-learn
 
 ## Status
 🔄 Actively Learning
