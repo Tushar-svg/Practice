@@ -4,7 +4,7 @@ Practice notebooks while learning
 Data Science from scratch.
 
 ## Topics Covered
-- Python Basics
+- Python
 - NumPy
 - Pandas
 - Data Visualization
