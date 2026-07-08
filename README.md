@@ -12,7 +12,7 @@ Data Science from scratch.
 - SQL
 
 ## Tools Used
-Python | Jupyter Notebook | Pandas | 
+Python | Jupyter Notebook | Pandas | SQL
 NumPy | Matplotlib | Seaborn | Scikit-learn
 
 ## Status
